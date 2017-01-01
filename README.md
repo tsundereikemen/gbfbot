@@ -12,7 +12,7 @@ Returns the current time in JST (Japan Standard Time)
     !time
 
 ##### Result
-![time](/screenshots/time.png?raw=true)
+![time](https://raw.githubusercontent.com/tomatolicious/zooey/master/screenshots/time.png)
 
 ***
 
@@ -26,7 +26,7 @@ Returns the time remaining until the next striketime.
 
 
 ##### Result
-![striketime](/screenshots/st.png?raw=true)
+![striketime](https://raw.githubusercontent.com/tomatolicious/zooey/master/screenshots/st.png)
 
 ***
 
@@ -39,7 +39,7 @@ This will show a list of all currenly running, recently finished and upcoming ev
     !schedule
 
 ##### Result
-![events](/screenshots/events.png?raw=true)
+![events](https://raw.githubusercontent.com/tomatolicious/zooey/master/screenshots/events.png)
 
 ***
         
@@ -51,7 +51,7 @@ Shows the 3 most recent news items posted on the official GBF News page. This is
     !news
 
 ##### Result
-![news](/screenshots/news.png?raw=true)
+![news](https://raw.githubusercontent.com/tomatolicious/zooey/master/screenshots/news.png)
 
 ***
 
@@ -64,7 +64,7 @@ This will return a random Zooey fanart image from danbooru. Only SFW images are 
     !zooey
 
 ##### Result
-![zoi](/screenshots/zoi.png?raw=true)
+![zoi](https://raw.githubusercontent.com/tomatolicious/zooey/master/screenshots/zoi.png)
 
 ***
     
@@ -79,7 +79,7 @@ For a list of tags refer to [danbooru](http://danbooru.donmai.us/tags)
     !danbooru catalina_(granblue_fantasy) _(granblue_fantasy) 
 
 ##### Result
-![booru](/screenshots/booru.png?raw=true)
+![booru](https://raw.githubusercontent.com/tomatolicious/zooey/master/screenshots/booru.png)
 
 ***
 
@@ -91,4 +91,4 @@ This will convert a given amoun from one currency to another. Data is based on G
     !cc JPY USD 3080
 
 ##### Result
-![cc](/screenshots/cc.png?raw=true)
+![cc](https://raw.githubusercontent.com/tomatolicious/zooey/master/screenshots/cc.png)
